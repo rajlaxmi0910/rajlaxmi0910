@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Rajlaxmi! 👋
 
-<!--
-**rajlaxmi0910/rajlaxmi0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 💻 Programmer | 👗 Fashion Designer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🎓 I am a Bachelor of Computer Applications (BCA) student.
+- 💻 I enjoy programming and learning new technologies.
+- 👗 I am also passionate about fashion designing.
+- 🌱 I am continuously learning and improving my skills.
+
+## My Interests
+- Web Development
+- Programming
+- Software Development
+- Fashion Designing
+- Creative Design
+
+## My Goals
+- Improve my programming skills.
+- Build creative projects.
+- Become a skilled software developer.
+- Combine technology with creativity.
+
+## Connect With Me
+- GitHub: [@rajlaxmi0910](https://github.com/rajlaxmi0910)
